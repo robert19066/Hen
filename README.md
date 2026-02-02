@@ -3,7 +3,8 @@
 
 # Hen AI[Documentation updated to V4.5]
 _(all images are ai generated)_
-
+### Important message:
+I might drop development on 10.02.2026, because i ran out of ideas. Please,suggest ideas in the issues tab. Seeing this project die is not bringing me happiness. If i wont get any ideas till 10th february, i will drop development and arhive this repository
 
 Hen is a fine-tunable LLM designed for interactive chat and text generation. Supports images and any file type you can think of!
 
